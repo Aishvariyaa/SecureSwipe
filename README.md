@@ -66,5 +66,9 @@ python fraud_detection.py
 🔹 Use **SMOTE** to handle class imbalance  
 🔹 Deploy the model as a **web API** 🌐  
 
+## 🔖 Tagline
+💡 "SecureSwipe - AI-powered fraud detection for safer payments.”
+
+
 
 
