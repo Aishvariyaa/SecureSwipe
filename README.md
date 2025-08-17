@@ -1,4 +1,4 @@
-# 📌 Credit Card Fraud Detection using Logistic Regression
+# 📌 SecureSwipe - Credit Card Fraud Detection using Logistic Regression
 
 ## 📝 Overview
 This project implements **Credit Card Fraud Detection** using **Logistic Regression**. The dataset contains anonymized credit card transactions labeled as fraudulent or non-fraudulent. The goal is to build a model that effectively identifies fraudulent transactions.
@@ -65,3 +65,6 @@ python fraud_detection.py
 🔹 Implement **Random Forest & Neural Networks** 🧠  
 🔹 Use **SMOTE** to handle class imbalance  
 🔹 Deploy the model as a **web API** 🌐  
+
+
+
